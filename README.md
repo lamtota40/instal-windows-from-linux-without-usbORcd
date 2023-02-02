@@ -17,4 +17,6 @@ echo '/dev/sda3 /media/sda3' >> /etc/fstab
 
 step 3
 run root user
+```console
 sudo wget -O win7.iso https://archive.org/download/Windows7-iso/Win7Pro32bit.iso
+```
