@@ -1,7 +1,7 @@
 # instal-windows-from-linux-without-usbORcd
 instal windows from linux without usb or CD with partition (hard drive)
 
-# Instalation Example
+# Instalation Example For Win 7 pro
 - Step1
 Create min 3 partition <br>
 ```/dev/sda1``` -> (file sytem linux) <br>
