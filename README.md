@@ -12,7 +12,7 @@ if you have one partition you can resize <br>
 - Step 2
 run root user
 ```console
-sudo wget -O win7.iso https://archive.org/download/Windows7-iso/Win7Pro32bit.iso
+sudo wget -O win7.iso https://ss2.softlay.com/files/en_windows_7_ultimate_x86_dvd.iso
 ```
 ```console
 sudo update-grub
