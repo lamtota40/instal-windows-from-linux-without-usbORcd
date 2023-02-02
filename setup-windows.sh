@@ -6,6 +6,11 @@ if (( $EUID != 0 )); then
     exit 1
 fi
 
+sudo apt install gparted -y
+echo -ne '\n' | sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+echo -ne '\n' | sudo apt update
+sudo apt install grub-customizer -y
+
 echo -ne '\n' |sudo add-apt-repository ppa:nilarimogard/webupd8
 echo -ne '\n' |sudo apt-get update
 sudo apt-get install woeusb -y
