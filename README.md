@@ -20,3 +20,5 @@ run root user
 ```console
 sudo wget -O win7.iso https://archive.org/download/Windows7-iso/Win7Pro32bit.iso
 ```
+sudo grub-reboot ?
+sudo reboot
