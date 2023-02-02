@@ -4,7 +4,7 @@ instal windows from linux without usb or CD with partition (hard drive)
 # Instalation Example
 - Step1
 create min 3 partition <br>
-/dev/sda1 -> (filesytem linux) <br>
+/dev/sda1 -> (file sytem linux) <br>
 /dev/sda2 -> Format NTFS (For partition windows) Min 12 GB <br>
 /dev/sda3 -> Format NTFS (For installer windows) Min 3 GB <br>
 if you have one partition you can resize <br>
