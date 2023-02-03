@@ -24,4 +24,4 @@ sudo grub-reboot ?
 sudo reboot
 ```
 
-https://github.com/slacka/WoeUSB/releases
+https://github.com/WoeUSB/WoeUSB/releases
