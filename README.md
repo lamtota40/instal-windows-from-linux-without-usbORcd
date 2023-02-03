@@ -23,3 +23,5 @@ sudo grub-reboot ?
 ```console
 sudo reboot
 ```
+
+https://github.com/slacka/WoeUSB/releases
