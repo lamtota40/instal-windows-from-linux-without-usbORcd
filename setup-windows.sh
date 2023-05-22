@@ -5,7 +5,7 @@ if (( $EUID != 0 )); then
     echo "You can Try comand 'su root' or 'sudo -i'"
     exit 1
 fi
-
+sudo apt update
 sudo apt install gparted -y
 echo -ne '\n' | sudo add-apt-repository ppa:danielrichter2007/grub-customizer
 echo -ne '\n' | sudo apt update
