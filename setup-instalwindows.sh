@@ -5,3 +5,4 @@ yes
 yes
 EOF
 clear
+https://files.download.bg/downloads/6/483006/9.06/systemrescue-9.06-amd64.iso
